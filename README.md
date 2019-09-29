@@ -1,1 +1,1 @@
-# test002
+print("hello word")
